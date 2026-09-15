@@ -16,7 +16,7 @@ import javax.swing.WindowConstants;
 
 import org.apposed.appose.Builder.ProgressConsumer;
 import org.apposed.appose.TaskEvent;
-import org.scijava.ui.config.visitors.gui.FrameBuilder.ConfigFrame.Progress;
+import org.scijava.ui.config.visitors.gui.Progress;
 
 import ij.IJ;
 

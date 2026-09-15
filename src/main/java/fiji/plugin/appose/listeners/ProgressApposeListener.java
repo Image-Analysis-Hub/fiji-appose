@@ -4,7 +4,7 @@ import java.util.function.Consumer;
 
 import org.apposed.appose.Builder.ProgressConsumer;
 import org.apposed.appose.TaskEvent;
-import org.scijava.ui.config.visitors.gui.FrameBuilder.ConfigFrame.Progress;
+import org.scijava.ui.config.visitors.gui.Progress;
 
 import net.imglib2.appose.util.ApposeTaskListener;
 
