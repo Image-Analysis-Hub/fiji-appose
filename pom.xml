@@ -117,11 +117,11 @@
 			<artifactId>imagej-legacy</artifactId>
 		</dependency>
 
-		<!-- Config-UI -->
+		<!-- Config-UI-Fiji -->
 		<dependency>
 			<groupId>org.scijava</groupId>
-			<artifactId>config-ui</artifactId>
-			<version>0.0.7</version>
+			<artifactId>config-ui-fiji</artifactId>
+			<version>0.0.3-SNAPSHOT</version>
 		</dependency>
 
 		<!-- Appose dependencies -->
